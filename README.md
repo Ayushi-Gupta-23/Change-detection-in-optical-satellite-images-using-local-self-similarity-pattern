@@ -1,0 +1,1 @@
+# Change-detection-in-optical-satellite-images-using-local-self-similarity-pattern
