@@ -1,7 +1,7 @@
 # Change-detection-in-optical-satellite-images-using-local-self-similarity-pattern
 
 ### _**Overview**_
-This project focuses on developing a robust and efficient system for detecting changes in optical satellite images. By leveraging the concept of Local Self-Similarity Patterns (LSSP), we aim to automatically identify and highlight areas of significant change between multiple images acquired at different times.
+This project focuses on developing a robust and efficient system for detecting changes in optical satellite images. By leveraging the concept of Local Self-Similarity Patterns (LSSP), aimed to automatically identify and highlight areas of significant change between multiple images acquired at different times.
 
 ### _**Motivation**_
 Detecting changes in satellite imagery is crucial for various applications, including urban planning, environmental monitoring, disaster management, and security.
